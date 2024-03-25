@@ -1,7 +1,7 @@
 #! usr/bin/env node
 import inquirer from "inquirer"
 
-console.log("wellcome to codewithMuzammil -CLI Number Guessing Game")
+console.log("\n\twellcome to codewithMuzammil -CLI Number Guessing Game\n")
 
 const randomNumber = Math.floor(Math.random() *5 + 1);
 
