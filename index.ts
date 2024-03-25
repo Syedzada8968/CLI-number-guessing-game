@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer"
 
 console.log("\n\twellcome to codewithMuzammil -CLI Number Guessing Game\n")
